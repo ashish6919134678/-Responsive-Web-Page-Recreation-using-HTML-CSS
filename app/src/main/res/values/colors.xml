@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="your_color_primary">#8F00FF</color>
+    <color name="base">#8F00FF</color>
+    <color name="colorAccent">#FF0000</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#008000</color>
+    <color name="yellowShooting">#FFFF00</color>
+    <color name="turquoiseShooting">#40E0D0</color>
+    <color name="purpleShooting">#800080</color>
+    <color name="redShooting">#FF0000</color>
+    <color name="greenShooting">#008000</color>
+    <color name="silverShooting">#C0C0C0</color>
+
+
+
+</resources>

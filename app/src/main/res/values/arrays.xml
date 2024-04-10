@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="category_array">
+        <item>Default</item>
+        <item>Product Name</item>
+        <item>Days Left</item>
+        <item>Price</item>
+        <item>Shipping Cost</item>
+    </string-array>
+
+    <string-array name="sort_array">
+        <item>Ascending</item>
+        <item>Descending</item>
+    </string-array>
+</resources>
